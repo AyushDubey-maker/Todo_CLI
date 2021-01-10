@@ -156,7 +156,7 @@ Error: todo #5 does not exist.
 Use the `report` command to see the latest tally of pending and completed todos.
 
 ```
-$ ./todo report
+$ node ./todo report
 dd/mm/yyyy Pending : 1 Completed : 4
 ```
 
